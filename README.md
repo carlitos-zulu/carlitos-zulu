@@ -11,3 +11,7 @@ I'm Carlos (but my friends call me Carlitos 😝), I was born in Bogota 🇨🇴
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/carlosediazv/), [Instagram](https://www.instagram.com/carlosgsxr600/) and [Discord](https://discordapp.com/users/1029116268554489906)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: my friends call me Carlitos because I'm tall! I'm 198cms tall! 😨
+
+![Carlitos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlitos-zulu&count_private=true&show_icons=true)
+
+[![Carlitos's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carlitos-zulu&layout=compact&count_private=true)](https://github.com/carlitos-zulu)
