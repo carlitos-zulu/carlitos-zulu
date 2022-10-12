@@ -12,6 +12,6 @@ I'm Carlos (but my friends call me Carlitos 😝), I was born in Bogota 🇨🇴
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: my friends call me Carlitos because I'm tall! I'm 198cms tall! 😨
 
-![Carlitos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlitos-zulu&count_private=true&show_icons=true)
+![Carlitos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlitos-zulu&count_private=true&show_icons=true&theme=react)
 
-[![Carlitos's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carlitos-zulu&layout=compact&count_private=true)](https://github.com/carlitos-zulu)
+[![Carlitos's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carlitos-zulu&layout=compact&count_private=true&theme=city_lights)](https://github.com/carlitos-zulu)
