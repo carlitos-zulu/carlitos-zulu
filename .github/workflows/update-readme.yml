@@ -21,6 +21,6 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add github-stats.svg github-streak.svg github-trophies.svg
+          git add github-stats-1.svg github-stats-2.svg github-streak.svg github-trophies.svg
           git commit -m "Update GitHub stats"
           git push
