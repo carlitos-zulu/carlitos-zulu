@@ -1,8 +1,6 @@
 name: Update GitHub Stats
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"  # Ejecuta cada 12 horas
   workflow_dispatch:  # Permite ejecutarlo manualmente
 
 jobs:
@@ -14,7 +12,8 @@ jobs:
 
       - name: Fetch GitHub Stats
         run: |
-          curl -o github-stats.svg "https://github-readme-stats.vercel.app/api?username=${{ github.actor }}&count_private=true&theme=dark&token=${{ secrets.GH_TOKEN }}"
+          curl -o github-stats-1.svg "https://github-readme-stats.vercel.app/api?username=${{ github.actor }}&count_private=true&theme=react&show_icons=true&token=${{ secrets.GH_TOKEN }}"
+          curl -o github-stats-2.svg "https://github-readme-stats.vercel.app/api?username=${{ github.actor }}&count_private=true&layout=compact&theme=city_lights&token=${{ secrets.GH_TOKEN }}"
           curl -o github-streak.svg "https://github-readme-streak-stats.herokuapp.com/?user=${{ github.actor }}&theme=dark&token=${{ secrets.GH_TOKEN }}"
           curl -o github-trophies.svg "https://github-profile-trophy.vercel.app/?username=${{ github.actor }}&theme=dark&token=${{ secrets.GH_TOKEN }}"
 
