@@ -20,14 +20,14 @@ I'm Carlos (but my friends call me Carlitos 😝), I was born in Bogota 🇨🇴
 
 ## 📈 Stats
 
-![Carlitos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlitos-zulu&count_private=true&show_icons=true&theme=react)
+[![Carlitos's GitHub Stats](github-stats-1.svg)](https://github.com/carlitos-zulu)
 
-[![Carlitos's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carlitos-zulu&layout=compact&count_private=true&theme=city_lights)](https://github.com/carlitos-zulu)
+[![Carlitos's GitHub Stats](github-stats-2.svg)](https://github.com/carlitos-zulu)
 
-[![Carlitos's Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=carlitos-zulu&theme=dark&hide_border=false)](https://github.com/carlitos-zulu)
+[![Carlitos's Github Streak](github-streak.svg)](https://github.com/carlitos-zulu)
 
 ## 🏆 GitHub Trophies
-[![Carlitos's Github Trophies](https://github-profile-trophy.vercel.app/?username=carlitos-zulu&theme=algolia&no-frame=false&no-bg=false&margin-w=4)](https://github.com/carlitos-zulu)
+[![Carlitos's Github Trophies](github-trophies.svg)](https://github.com/carlitos-zulu)
 
 ---
 [![Carlitos's Github Counter](https://visitcount.itsvg.in/api?id=carlitos-zulu&label=Profile%20Views&pretty=true)](https://github.com/carlitos-zulu)
