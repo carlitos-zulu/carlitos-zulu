@@ -12,7 +12,7 @@ I'm Carlos (but my friends call me Carlitos 😝), I was born in Bogota 🇨🇴
 - ⚡ Fun fact: my friends call me Carlitos because I'm tall! I'm 198cms tall! 😨
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/carlosgsxr600) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlosediazv)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/el_pov_de_carlitos) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlosediazv)
 
 # 💻 Tech Stack:
 
