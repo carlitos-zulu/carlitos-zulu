@@ -30,7 +30,7 @@ I'm Carlos (but my friends call me Carlitos 😝), I was born in Bogota 🇨🇴
 [![Carlitos's Github Trophies](github-trophies.svg)](https://github.com/carlitos-zulu)
 
 ---
-[![Carlitos's Github Counter](https://visitcount.itsvg.in/api?id=carlitos-zulu&label=Profile%20Views&pretty=true)](https://github.com/carlitos-zulu)
+[![Carlitos's Github Counter](https://komarev.com/ghpvc/?username=carlitos-zulu&color=blue&style=flat-square&label=Profile%20Views)](https://github.com/carlitos-zulu)
 
-<!--### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>-->
+### 😂 Random Dev Meme
+<img src="https://readme-jokes.vercel.app/api?theme=radical" width="512px"/>
