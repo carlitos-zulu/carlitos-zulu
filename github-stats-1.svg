@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Carlos Eduardo Díaz Valbuena's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  : 4721, Total PRs: 2266, Total Issues: 3, Contributed to (last year): 53</desc>
+        <desc id="descId">Total PRs: 2266, Total Issues: 3, Contributed to (last year): 53, Total Stars Earned: 0, Total Commits  : 4721</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
