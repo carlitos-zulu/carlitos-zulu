@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Carlos Eduardo Díaz Valbuena's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Issues: 3, Contributed to (last year): 55, Total Stars Earned: 0, Total Commits  : 5103, Total PRs: 2411</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  : 5103, Total PRs: 2411, Total Issues: 3, Contributed to (last year): 55</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 108.04535354731478;
+        stroke-dashoffset: 108.21213399950292;
       }
     }
   
